@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitsansh1
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Project & Product management
-- 🌱 I’m currently learning python
+- 🌱 I’m open for senior management role in those topics
 - 💞️ I’m looking to collaborate on all those topics
 - 📫 How to reach me:
       LinkedIn - Nitsan Shaked
